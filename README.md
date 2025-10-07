@@ -16,8 +16,8 @@ Dependencies: Install required packages from requirements.txt.
 
 ### Installation
 
-- Clone the repository:git clone https://github.com/your-username/ddos-botnet-clustering.git
-cd ddos-botnet-clustering
+- Clone the repository:git clone https://github.com/Cenbull70/vetseccon.git
+cd vetseccon
 
 
 - Create a virtual environment (optional but recommended):python -m venv venv
